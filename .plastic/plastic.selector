@@ -1,0 +1,4 @@
+repository "CMPM170_Prototype2@Confoosion@cloud"
+  path "/"
+    br "/main"
+    co "/main"
